@@ -1,0 +1,11 @@
+div {
+    color: white;
+    background-color: red;
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: center;
+    height: inherit;
+    width: 400px;
+    padding: 10px ;
+    width: 100dvw;
+}
